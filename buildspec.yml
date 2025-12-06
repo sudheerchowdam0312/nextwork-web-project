@@ -24,6 +24,5 @@ artifacts:
   files:
     - target/nextwork-web-project.war
 
-  base-directory: deploy
 
   discard-paths: no
